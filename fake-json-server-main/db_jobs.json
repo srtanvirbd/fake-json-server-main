@@ -1,0 +1,100 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Google Internship Program",
+      "logo": "https://kgo.googleusercontent.com/profile_vrt_raw_bytes_1587515358_10512.png",
+      "companyName": "Google",
+      "position": "Intern Developer",
+      "description": "This is an internship opportunity from Google"
+    },
+    {
+      "id": 2,
+      "title": "Facebook Junior Development Program",
+      "logo": "https://www.facebook.com/images/fb_icon_325x325.png",
+      "companyName": "Facebook",
+      "position": "Junior Developer",
+      "description": "This is a junior developer recruitment from Facebook"
+    },
+    {
+      "id": 3,
+      "title": "Microsoft Senior Development Program",
+      "logo": "https://c.s-microsoft.com/en-us/CMSImages/ImgOne.jpg?version=D418E733-821C-244F-37F9-DC865BDEFEC0",
+      "companyName": "Microsoft",
+      "position": "Senior Developer",
+      "description": "This is a junior developer recruitment from Microsoft"
+    },
+    {
+      "id": 4,
+      "title": "Pinterst Senior Development Program",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png",
+      "companyName": "Pinterest",
+      "position": "Senior Web Developer",
+      "description": "This is a senior web developer recruitment from Pinterst . its largest company"
+    },
+    {
+      "id": 5,
+      "title": "Uber Backend Engineer",
+      "logo": "https://helios-i.mashable.com/imagery/articles/03y6VwlrZqnsuvnwR8CtGAL/hero-image.fill.size_1200x675.v1623372852.jpg",
+      "companyName": "Uber",
+      "position": "Backend Engineer",
+      "description": "Contribute to the backend infrastructure of Uber's platform as a backend engineer."
+    },
+    {
+      "id": 6,
+      "title": "Tesla Hardware Engineer",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Tesla_logo.png",
+      "companyName": "Tesla",
+      "position": "Hardware Engineer",
+      "description": "Be part of Tesla's hardware engineering team and work on cutting-edge automotive technologies."
+    },
+    {
+      "id": 7,
+      "title": "Amazon Data Scientist",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/2560px-Amazon_logo.svg.png",
+      "companyName": "Amazon",
+      "position": "Data Scientist",
+      "description": "Exciting opportunity to analyze and derive insights from large datasets at Amazon."
+    },
+    {
+      "id": 8,
+      "title": "Oracle Database Administrator",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/2560px-Oracle_logo.svg.png",
+      "companyName": "Oracle",
+      "position": "Database Administrator",
+      "description": "Manage and optimize databases as a part of Oracle's dedicated database administration team."
+    },
+    {
+      "id": 9,
+      "title": "Intel Hardware Architect",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/64/Intel-logo-2022.png",
+      "companyName": "Intel",
+      "position": "Hardware Architect",
+      "description": "Design and innovate hardware solutions with Intel as a hardware architect."
+    },
+    {
+      "id": 10,
+      "title": "Sony Game Developer",
+      "logo": "https://1000logos.net/wp-content/uploads/2021/05/Sony-logo.png",
+      "companyName": "Sony",
+      "position": "Game Developer",
+      "description": "Contribute to the creation of exciting and immersive games as a game developer at Sony."
+    },
+    {
+      "id": 11,
+      "title": "Snapchat AR/VR Engineer",
+      "logo": "https://digitallegacyassociation.org/wp-content/uploads/2018/09/Snapchat.jpg",
+      "companyName": "Snapchat",
+      "position": "AR/VR Engineer",
+      "description": "Work on cutting-edge augmented and virtual reality projects at Snapchat."
+    },
+    {
+      "id": 12,
+      "title": "GitHub DevOps Engineer",
+      "logo": "https://cdn-icons-png.flaticon.com/512/25/25231.png",
+      "companyName": "GitHub",
+      "position": "DevOps Engineer",
+      "description": "Optimize development workflows and infrastructure as a DevOps engineer at GitHub."
+    }
+  ]
+}
